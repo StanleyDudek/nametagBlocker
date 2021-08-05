@@ -1,0 +1,2 @@
+load("nametagBlocker")
+registerCoreModule("nametagBlocker")
